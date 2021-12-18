@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MakeRoboFriend/static/css/main.dd3b6a1d.css",
+    "main.js": "/MakeRoboFriend/static/js/main.8d63c19a.js",
+    "static/js/787.783bf20a.chunk.js": "/MakeRoboFriend/static/js/787.783bf20a.chunk.js",
+    "static/media/SEGA.woff": "/MakeRoboFriend/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/MakeRoboFriend/index.html",
+    "main.dd3b6a1d.css.map": "/MakeRoboFriend/static/css/main.dd3b6a1d.css.map",
+    "main.8d63c19a.js.map": "/MakeRoboFriend/static/js/main.8d63c19a.js.map",
+    "787.783bf20a.chunk.js.map": "/MakeRoboFriend/static/js/787.783bf20a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd3b6a1d.css",
+    "static/js/main.8d63c19a.js"
+  ]
+}
